@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awsabdulhamed
+- 👋 Hi, I’m @Aous-Abdulhamid
 - 👀 I’m interested in Deep Learning and Machine Learning 
 - 🌱 I’m currently learning Deep Learning
 -    Student in the fifth year in Artificial
