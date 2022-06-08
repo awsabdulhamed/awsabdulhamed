@@ -5,17 +5,17 @@
 intelligence engineering.
 -    Skills :
 
-•  Programming Languages:
+-   Programming Languages:
 Python ,C++,C#,SQL
-•  Design and development of web applications:
+-   Design and development of web applications:
 -FlASK,Java,HTML, CSS3, MySQL
-•  Environments and Softwares:
+-   Environments and Softwares:
 -Anaconda ,Visual studio code,Keras,Postman
 -MSOutlook,Excel,Word
-•  Operating Systems:
--Windows 7, 8, 10,11
--Linux
--    Contact :
+-   Operating Systems:
+Windows 7, 8, 10,11
+Linux
+-   Contact :
 • https://www.linkedin.com/in/aous-abdulhamed-a59298172
 • awsabd666@gmail.com
 • 00963964516301
