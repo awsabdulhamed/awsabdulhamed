@@ -3,18 +3,12 @@
 - 🌱 I’m currently learning Deep Learning
 -    Student in the fifth year in Artificial
 intelligence engineering.
--    Skills :
-
--   Programming Languages:
-Python ,C++,C#,SQL
--   Design and development of web applications:
--FlASK,Java,HTML, CSS3, MySQL
--   Environments and Softwares:
--Anaconda ,Visual studio code,Keras,Postman
--MSOutlook,Excel,Word
--   Operating Systems:
-Windows 7, 8, 10,11
-Linux
+-    Summary :
+- 2 years of Experience as a Data Scientist using ML Algorithms ,NLP and Computer Vision .
+- Working Experience & Extensive Knowledge in Python with Libraries Such as Tensorflow , Keras, Sklearn ,Numpy ,Pandas ,Matplotlib,Seaborn.
+- Devloped Many API's Using Flask to linking between DL Models and Flutter Apps .
+- Worked in tools like -VS code ,Juypter Notebook .
+- Have Excellent communication and agile team
 -   Contact :
 • https://www.linkedin.com/in/aous-abdulhamed-a59298172
 • awsabd666@gmail.com
