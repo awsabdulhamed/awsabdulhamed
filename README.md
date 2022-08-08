@@ -5,7 +5,7 @@
 intelligence engineering.
 -    Summary :
 - 2 years of Experience as a Data Scientist using ML Algorithms ,NLP and Computer Vision .
-- Working Experience & Extensive Knowledge in Python with Libraries Such as Tensorflow , Keras, Sklearn ,Numpy ,Pandas ,Matplotlib,Seaborn.
+- Working Experience & Extensive Knowledge in Python with Libraries Such as Tensorflow , Keras, Sklearn ,Numpy ,Pandas ,Matplotlib,Seaborn, Plotly
 - Devloped Many API's Using Flask to linking between DL Models and Flutter Apps .
 - Worked in tools like -VS code ,Juypter Notebook .
 - Have Excellent communication and agile team
