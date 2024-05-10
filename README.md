@@ -7,7 +7,6 @@
 - Working Experience & Extensive Knowledge in Python with Libraries Such as Tensorflow , Keras, Sklearn ,Numpy ,Pandas ,Matplotlib,Seaborn, Plotly
 - Devloped Many API's Using Flask to linking between DL Models and Flutter Apps .
 - Worked in tools like -VS code ,Juypter Notebook .
-- Have Excellent communication and agile team
 -   Contact :
 • https://www.linkedin.com/in/aous-abdulhamed
 • aous.ah2@gmail.com
