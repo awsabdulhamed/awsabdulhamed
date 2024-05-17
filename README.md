@@ -46,19 +46,20 @@
   <code><img title="Windows" height="25" src="images/windows-svgrepo-com.svg"></code>
   <code><img title="Linux" height="25" src="images/linux-svgrepo-com.svg"></code>
 </p>
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<hr><h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/AousAbdulhamid/Soul-Composer" title="Soul Composer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AousAbdulhamid&repo=Soul-Composer&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/AousAbdulhamid/Speech-Training-App-for-Stroke-Patients" title="Speech Training App for Stroke Patients"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AousAbdulhamid&repo=Speech-Training-App-for-Stroke-Patients&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/awsabdulhamed/Senior-Project-Songs-Generator" title="Soul Composer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=awsabdulhamed&repo=Senior-Project-Songs-Generator&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/awsabdulhamed/Junior-Project-Speech-Training-App-For-Stroke-Patients" title="Speech Training App for Stroke Patients"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=awsabdulhamed&repo=Junior-Project-Speech-Training-App-For-Stroke-Patients&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/AousAbdulhamid/Poem-Generation" title="Poem Generation"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AousAbdulhamid&repo=Poem-Generation&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/awsabdulhamed/Neural-Network-Project-Poem-Generation" title="Poem Generation"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=awsabdulhamed&repo=Neural-Network-Project-Poem-Generation&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/awsabdulhamed/Information-retrieval-Project-Search-Engine" title="Search Engine"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=awsabdulhamed&repo=Information-retrieval-Project-Search-Engine&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/AousAbdulhamid?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/awsabdulhamed?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
