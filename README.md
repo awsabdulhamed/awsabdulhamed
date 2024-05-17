@@ -8,7 +8,6 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/aous-abdulhamid/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/AousAbdulhamid" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
   <code><a href="https://stackoverflow.com/users/25087596/aous-abdulhamid" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
