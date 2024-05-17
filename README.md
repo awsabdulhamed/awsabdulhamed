@@ -2,17 +2,18 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!👋;This+is+Aous+Abdulhamid....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aous+Abdulhamid....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/aous-abdulhamid/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/AousAbdulhamid" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
   <code><a href="https://stackoverflow.com/users/25087596/aous-abdulhamid" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Aous Abdulhamid, a Research Assistant & Computer Engineer & Software Developer based in Germany
+  Hi, I'm Aous Abdulhamid, an Artificial Intelligence Engineer & junior data scientist based in Germany
   <br>
   <br>
   🔬 I'm currently studying for my Master's in Artificial Intelligence Engineering at the University of Passau, Germany
@@ -20,8 +21,6 @@
   🎓 I graduated from Arab International University, Syria, with a Bachelor's in Informatics Engineering
   <br>
   💻 I love writing code and learning anything about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Websites with Django
   <br>
   📫 How to reach me: <a href="mailto: aous.ah2@gmail.com">aous.ah2@gmail.com</a>
 </p>
@@ -37,18 +36,15 @@
   <code><img title="Flask" height="25" src="images/flask.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="TensorFlow" height="25" src="images/tensorflow.svg"></code>
-  <code><img title="Keras" height="25" src="images/keras.svg"></code>
-  <code><img title="Pandas" height="25" src="images/pandas.svg"></code>
-  <code><img title="NumPy" height="25" src="images/numpy.svg"></code>
-  <code><img title="Scikit-Learn" height="25" src="images/scikit-learn.svg"></code>
-  <code><img title="Firebase" height="25" src="images/firebase.svg"></code>
+  <code><img title="TensorFlow" height="25" src="images/google-tensorflow-icon.svg"></code>
+  <code><img title="Keras" height="25" src="images/keras-svgrepo-com.svg"></code>
+  <code><img title="Pandas" height="25" src="images/pandas-svgrepo-com.svg"></code>
+  <code><img title="NumPy" height="25" src="images/numpy-svgrepo-com.svg"></code>
+  <code><img title="Scikit-Learn" height="25" src="images/scikitlearn-svgrepo-com.svg"></code>
+  <code><img title="Firebase" height="25" src="images/firebase-svgrepo-com.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Beautiful Soup" height="25" src="images/beautifulsoup.svg"></code>
-  <code><img title="Seaborn" height="25" src="images/seaborn.svg"></code>
-  <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
-  <code><img title="Windows" height="25" src="images/windows.svg"></code>
-  <code><img title="Linux" height="25" src="images/linux.svg"></code>
+  <code><img title="Windows" height="25" src="images/windows-svgrepo-com.svg"></code>
+  <code><img title="Linux" height="25" src="images/linux-svgrepo-com.svg"></code>
 </p>
 <hr>
 
