@@ -17,7 +17,7 @@
   <br>
   🔬 I'm currently studying for my Master's in Artificial Intelligence Engineering at the University of Passau, Germany
   <br>
-  🎓 I graduated from Arab International University, Syria, with a Bachelor's in Informatics Engineering
+  🎓 I graduated from Arab International University, with a Bachelor's in Informatics Engineering
   <br>
   💻 I love writing code and learning anything about it
   <br>
